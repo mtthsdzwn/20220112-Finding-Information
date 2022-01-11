@@ -97,6 +97,9 @@ style_mono_accent(
 class:inverse
 
 # Why do you need information?
+
+???
+Icebreaker question for public
 ---
 
 # Why do you need information?
@@ -122,6 +125,13 @@ class:inverse
 
 # Where can you find information?
 
+???
+First Mentimeter questions
+
+<!-- --- -->
+<!-- name: menti -->
+
+<!-- <iframe width="1200" height="675" src="https://www.mentimeter.com/s/c9321264cb61ef6255362c3bfb8ce45e/82dc6ad57607" title="Mentimeter"></iframe>  -->
 ---
 
 # Where can you find information?
@@ -135,8 +145,12 @@ class:inverse
 <span class="card-small" style="top:61%;left:26%">Social media</span>
 <span class="card-small" style="top:29%;left:43%">Documentaries</span>
 <span class="card-small" style="top:72%;left:51%">Academic studies</span>
----
 
+???
+Useful information is everywhere, but not all information is useful for all questions.
+
+Good to look more carefully at certain aspects of information.
+---
 # Aspects of information
 
 .card[
@@ -152,6 +166,9 @@ Why was the information provided?
 
 Persuasion or information?
 ]
+
+???
+More menti
 
 ---
 
@@ -234,8 +251,6 @@ See <a href="https://ub.vu.nl/en/search-help/off-campus-access/index.aspx" targe
 ]
 
 ---
-name: template-nexis
-
 # Finding information in<br>magazines & newspapers
 
 .card[
@@ -363,7 +378,7 @@ layout: true
 ---
 .pull-left[
 <!-- Venn diagram 1:set up -->
-<img src="img/venn-setup.svg"alt="Venn diagram" />
+<img src="img/venn-setup.svg" alt="Venn diagram" />
 ]
 
 .pull-right[
@@ -390,8 +405,7 @@ How will *Brexit* affect *migration* patterns?
 Selects articles that mention *both* Brexit *and* migration.
 
 Fewer results, more precise.
-]
-]
+]]
 ---
 
 .pull-left[
@@ -429,6 +443,8 @@ Combine as many search terms as needed.
 See <a href="https://libguides.vu.nl/a-all/search-terms">here</a> for more info
 ]]
 
+???
+More menti
 ---
 <!-- Diagram: How to use AND and OR -->
 <div style="display:flex; justify-content:center;">
@@ -483,6 +499,10 @@ template: snowball
 <div style="display:flex; justify-content:center; align-items: center;">
 <img src="img/workflow.svg" alt="A suggested workflow" width="80%">
 <div>
+
+???
+Show Scopus search
+
 ---
 name: tips
 # Finding information: Tips &amp; tricks
